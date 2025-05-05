@@ -1,1 +1,4 @@
 /target
+/src/Secret
+
+.env
